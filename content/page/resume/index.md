@@ -14,14 +14,6 @@ menu:
 
 ---
 
-# Mariah Rogers
-All about Mariah
-
-## Education
-UC Berkeley 2017 - Computer Science 
-
 ## Experience
- * Sr. Analytics Engineer @ Arcadia 
 
-## Skills
- more stuff
+{{< experiences >}}

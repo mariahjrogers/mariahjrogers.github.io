@@ -1,6 +1,6 @@
-  - date: null
-    title: null
-    event: null
-    abstract: null
-    url: null
-    video: null
+  - date: 2022-10-01
+    title: "Testing: Our Assertions vs. Reality"
+    event: Coalesce 2022
+    abstract: |
+      Some description here
+    video: https://www.youtube.com/watch?v=hxvVhmhWRJA&list=PL0QYlrC86xQlj9UDGiEwhXQuSjuSyPJHl&index=135
