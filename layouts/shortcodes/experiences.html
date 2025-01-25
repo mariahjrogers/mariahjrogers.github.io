@@ -11,13 +11,13 @@
         {{ if .date }}  <!-- Skip the null template entry -->
         <div class="experience-card">
             <div class="experience-header">
-                <h2 class="experience-title">{{ .title }}</h2>
-                <time class="experience-date" datetime="{{ .date }}">
-                    {{ dateFormat "Jan 02, 2006" .date }}
-                </time>
+                <h1 class="experience-title">{{ .title }}</h1>
+                <div class="experience-organization">{{ .organization }}</div>
+                    <time class="experience-date" datetime="{{ .date }}">
+                        {{ dateFormat "Jan 02, 2006" .date }}
+                    </time>
             </div>
 
-            <div class="experience-organization">{{ .organization }}</div>
 
             <p class="experience-details">{{ .details | markdownify }}</p>
 
