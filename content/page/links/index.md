@@ -9,7 +9,7 @@ comments: false
 menu: 
     main:
         name: Links
-        weight: 80
+        weight: 10
         params:
             icon: link
 ---

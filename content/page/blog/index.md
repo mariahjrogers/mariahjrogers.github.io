@@ -7,7 +7,7 @@ slug: blog
 menu:
     main:
         name: Blog
-        weight: 35
+        weight: 4
         params:
             icon: article-icon
 ---
