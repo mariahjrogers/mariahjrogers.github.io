@@ -11,3 +11,12 @@ menu:
             icon: cv-icon
 
 ---
+
+# Mariah Rogers
+
+## Education
+UC Berkeley 2017 - Computer Science 
+
+## Experience
+
+## Skills
