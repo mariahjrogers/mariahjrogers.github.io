@@ -1,0 +1,45 @@
+terms:
+  powershell: PowerShell
+  aws: AWS
+  html: HTML
+  css: CSS
+  json: JSON
+  api: API
+  yaml: YAML
+  sql: SQL
+  http: HTTP
+  https: HTTPS
+  oauth: OAuth
+  javascript: JavaScript
+  nodejs: Node.js
+  dotnet: .NET
+  aspnet: ASP.NET
+  restapi: REST API
+  rest api: REST API
+  cicd: CI/CD
+  ci: CI
+  devops: DevOps
+  dns: DNS
+  tls: TLS
+  ssl: SSL
+  platyps: platyPS
+  bluebirdps: BluebirdPS
+  convertto: ConvertTo
+  convertfrom: ConvertFrom
+  eventdata: EventData
+  foreach-object: ForEach-Object
+  ps7now: PS7Now
+  psblogweek: PSBlogWeek
+  pscustomobject: PSCustomObject
+  psgsuite: PSGSuite
+  psobject: PSObject
+  travis ci: Travis CI
+  gui: GUI
+  commands.historyinfo: Commands.HistoryInfo
+  linkedin: LinkedIn
+  mastodon: Mastodon
+  bluesky: Bluesky
+  github: GitHub
+  datagridview: DataGridView
+  gh-actions: GH Actions
+  github-actions: GitHub Actions

@@ -1,33 +1,23 @@
 ---
 title: Links
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-menu:
-    main: 
-        weight: 4
+url: /links/
+# image: /images/chain-links.jpg
+layout: page
+toc: false
+readingTime: false
+comments: false
+menu: 
+    main:
+        name: Links
+        weight: 80
         params:
             icon: link
-
-comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
+### Social
 
-This page's frontmatter:
+{{< influencer mariahjrogers all >}}
 
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
+### Presentations
 
-`image` field accepts both local and external images.
+{{< presentations >}}

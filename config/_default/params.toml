@@ -1,11 +1,11 @@
 # Pages placed under these sections will be shown on homepage and archive page.
-mainSections = ["post"]
+mainSections = ["blog"]
 # Output page's full content in RSS.
 rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
+since = 2025
 customText = ""
 
 [dateFormat]
@@ -13,8 +13,8 @@ published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+#emoji = "🍥"
+subtitle = "Welcome."
 
 [sidebar.avatar]
 enabled = true
@@ -24,7 +24,7 @@ src = "img/avatar.png"
 [article]
 headingAnchor = false
 math = false
-readingTime = true
+readingTime = false
 
 [article.license]
 enabled = true
@@ -50,7 +50,7 @@ limit = 10
 type = "tag-cloud"
 
 [widgets.homepage.params]
-limit = 10
+limit = 20
 
 [[widgets.page]]
 type = "toc"
@@ -76,7 +76,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
@@ -109,7 +109,7 @@ serverURL = ""
 lang = ""
 visitor = ""
 avatar = ""
-emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"]
+moji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"]
 requiredMeta = ["name", "email", "url"]
 placeholder = ""
 
