@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Mariah J. Rogers</title><link>https://mariahjrogers.github.io/page/</link><description>Recent content in Pages on Mariah J. Rogers</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mariahjrogers.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Resumé</title><link>https://mariahjrogers.github.io/resume/</link><pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate><guid>https://mariahjrogers.github.io/resume/</guid><description>&lt;h2 id="experience">Experience
+&lt;/h2>
+&lt;div class="experiences">
+&lt;div class="experience-card">
+&lt;div class="experience-header">
+&lt;h1 class="experience-title">Senior Analytics Engineer&lt;/h1>
+&lt;div class="experience-organization">Arcadia&lt;/div>
+&lt;time class="experience-date" datetime="2023-06-01">
+Jun 01, 2023
+&lt;/time>
+&lt;/div>
+&lt;p class="experience-details">I did a ton of data modeling&lt;/p>
+&lt;div class="experience-links">
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Archives</title><link>https://mariahjrogers.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://mariahjrogers.github.io/archives/</guid><description/></item><item><title>About</title><link>https://mariahjrogers.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mariahjrogers.github.io/about/</guid><description>&lt;h2 id="this-site">This Site
+&lt;/h2>&lt;p>Stuff about stuff&lt;/p>
+&lt;ul>
+&lt;li>Best practices and lessons learned&lt;/li>
+&lt;li>DAta modeling&lt;/li>
+&lt;li>Skoolie stuff&lt;/li>
+&lt;li>DIY Solar&lt;/li>
+&lt;/ul>
+&lt;h2 id="me">Me
+&lt;/h2>&lt;p>Stuff stuff stuff&lt;/p>
+&lt;blockquote>
+&lt;p>I have enjoyed wowing coworkers (and myself) with the data I could collect, collate, and control&amp;hellip;&lt;/p>
+&lt;/blockquote>
+&lt;p>I have included links for my social site profiles and other links on my &lt;a class="link" href="https://mariahjrogers.github.io/links/" >links page&lt;/a>.&lt;/p>
+&lt;div class="notice note">
+&lt;div class="notice-icon">
+&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">&lt;path d="M2 10c2-3.333 4-5 6-5 3 0 3 5 6 5s3-5 6-5c2 0 4 1.667 6 5">&lt;/path>&lt;path d="M2 19c2-3.333 4-5 6-5 3 0 3 5 6 5s3-5 6-5c2 0 4 1.667 6 5">&lt;/path>&lt;/svg>
+&lt;/div>
+&lt;div class="notice-content">
+&lt;div class="notice-type">NOTE&lt;/div>
+&lt;div class="notice-text">
+I have a school bus converted into a camper! Check it out!
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Blog</title><link>https://mariahjrogers.github.io/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mariahjrogers.github.io/blog/</guid><description/></item><item><title>Links</title><link>https://mariahjrogers.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mariahjrogers.github.io/links/</guid><description>&lt;h3 id="social">Social
+&lt;/h3>
+&lt;ul class="influencer-links">
+&lt;li class="influencer-link">
+&lt;a href="https://bsky.app/profile/data.potato.engineer" target="_blank" title="Bluesky">
+&lt;svg class="social-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">&lt;path d="M6.335 5.144c-1.654 -1.199 -4.335 -2.127 -4.335 .826c0 .59 .35 4.953 .556 5.661c.713 2.463 3.13 2.75 5.444 2.369c-4.045 .665 -4.889 3.208 -2.667 5.41c1.03 1.018 1.913 1.59 2.667 1.59c2 0 3.134 -2.769 3.5 -3.5c.333 -.667 .5 -1.167 .5 -1.5c0 .333 .167 .833 .5 1.5c.366 .731 1.5 3.5 3.5 3.5c.754 0 1.637 -.571 2.667 -1.59c2.222 -2.203 1.378 -4.746 -2.667 -5.41c2.314 .38 4.73 .094 5.444 -2.369c.206 -.708 .556 -5.072 .556 -5.661c0 -2.953 -2.68 -2.025 -4.335 -.826c-2.293 1.662 -4.76 5.048 -5.665 6.856c-.905 -1.808 -3.372 -5.194 -5.665 -6.856z"/>&lt;/svg>
+Bluesky
+&lt;/a>
+&lt;/li>
+&lt;li class="influencer-link">
+&lt;a href="https://www.linkedin.com/in/mariahjrogers" target="_blank" title="LinkedIn">
+&lt;svg class="social-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">&lt;path d="M8 11v5"/>&lt;path d="M8 8v.01"/>&lt;path d="M12 16v-5"/>&lt;path d="M16 16v-3a2 2 0 0 0-4 0"/>&lt;rect x="4" y="4" width="16" height="16" rx="2"/>&lt;/svg>
+LinkedIn
+&lt;/a>
+&lt;/li>
+&lt;li class="influencer-link">
+&lt;a href="https://github.com/mariahjrogers" target="_blank" title="GitHub">
+&lt;svg class="social-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">&lt;path d="M9 19c-4.3 1.4-4.3-2.5-6-3m12 5v-3.5c0-1 .1-1.4-.5-2c2.8-.3 5.5-1.4 5.5-6a4.6 4.6 0 0 0-1.3-3.2 4.2 4.2 0 0 0-.1-3.2s-1.1-.3-3.5 1.3a12.3 12.3 0 0 0-6.2 0c-2.4-1.6-3.5-1.3-3.5-1.3a4.2 4.2 0 0 0-.1 3.2 4.6 4.6 0 0 0-1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6.6-.6 1.2-.5 2V21"/>&lt;/svg>
+GitHub
+&lt;/a>
+&lt;/li>
+&lt;li class="influencer-link">
+&lt;a href="https://sessionize.com/mariah-rogers/" target="_blank" title="Speaker Profile">
+&lt;svg class="social-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">&lt;path d="M12 20v-8"/>&lt;path d="M18 10a6 6 0 0 0-12 0"/>&lt;path d="M8 16h8"/>&lt;path d="M12 20v-8"/>&lt;/svg>
+Speaker Profile
+&lt;/a>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="presentations">Presentations
+&lt;/h3>
+&lt;div class="presentations">
+&lt;div class="presentation-card">
+&lt;div class="presentation-header">
+&lt;h2 class="presentation-title">Testing: Our Assertions vs. Reality&lt;/h2>
+&lt;time class="presentation-date" datetime="2022-10-01">
+Oct 01, 2022
+&lt;/time>
+&lt;/div>
+&lt;div class="presentation-event">Coalesce 2022&lt;/div>
+&lt;p class="presentation-description">Some description here&lt;/p>
+&lt;div class="presentation-links">
+&lt;a href="https://www.youtube.com/watch?v=hxvVhmhWRJA&amp;amp;list=PL0QYlrC86xQlj9UDGiEwhXQuSjuSyPJHl&amp;amp;index=135" class="button" target="_blank" rel="noopener noreferrer">
+&lt;svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">&lt;circle cx="12" cy="12" r="10">&lt;/circle>&lt;polygon points="10 8 16 12 10 16 10 8">&lt;/polygon>&lt;/svg>
+Video
+&lt;/a>
+&lt;/div>
+&lt;/div>
+&lt;/div></description></item><item><title>Search</title><link>https://mariahjrogers.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mariahjrogers.github.io/search/</guid><description/></item></channel></rss>
