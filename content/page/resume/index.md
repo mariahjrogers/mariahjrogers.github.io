@@ -1,13 +1,13 @@
 ---
-title: CV
+title: Resumé
 published: 2024-01-25
 layout: page
 toc: false
-slug: cv
-url: /cv/
+slug: resume
+url: /resume/
 menu:
     main:
-        name: CV
+        name: Resumé
         weight: 3
         params: 
             icon: cv-icon
